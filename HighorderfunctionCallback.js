@@ -22,3 +22,5 @@ resultfunc()
 // but there is a problem here knows as callback hell
 // when there is asynchronous operation in sequence
 //  so promises arises with much cleaner code
+
+// there are two type of callbacks synchronous and asyncronous
